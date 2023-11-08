@@ -13,3 +13,13 @@ A network secure rule will be created that allows incoming traffic over port 80 
 		  --output table
 
 ```
+
+# Verify the configuration
+
+```shell
+	az network nsg rule list 
+	--resource-group learn-00000000 
+	--nsg-name my-vmNSG 
+	--query '[].{Name:name, Priority:priority, Port:destinationPortRange, Access:access}' 
+	--output table
+```
