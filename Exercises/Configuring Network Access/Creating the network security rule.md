@@ -3,7 +3,7 @@ A network secure rule will be created that allows incoming traffic over port 80 
 
 ```shell
 		az network nsg rule create \
-		  --resource-group learn-43fd6d79-814e-4112-897e-0a4cd91385bc \
+		  --resource-group learn-00000000 \
 		  --nsg-name my-vmNSG \
 		  --name allow-http \
 		  --protocol tcp \
