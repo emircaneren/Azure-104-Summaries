@@ -1,7 +1,7 @@
-# Summaries for AZ-900 
+# Summaries for AZ-104
 
-Bu Repo AZ-900 sınavına hazırlananlar ve bulut bilişimin temellerini anlamak isteyenler için özet notlardır.
-This Repo was created for those preparing for the Microsoft Certified: Azure Fundamentals exam (AZ-900).
+Bu Repo AZ-104 & AZ-900 sınavına hazırlananlar ve bulut bilişimin temellerini anlamak isteyenler için özet notlardır.
+This Repo was created for those preparing for the Microsoft Certified: Azure exams AZ-104 & AZ-900).
 
 All summaries will be published in 3 languages..
 
