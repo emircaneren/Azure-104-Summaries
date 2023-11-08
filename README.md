@@ -6,13 +6,15 @@ This Repo was created for those preparing for the Microsoft Certified: Azure exa
 All summaries will be published in 3 languages..
 
 * :tr: Türkçe
-* :gb: English (The translation will take place on September 15th)
-* :de: Deutsch (Die Übersetzung erfolgt am 15. September)
+* :gb: English
+* :de: Deutsch 
 
 ##
 
 
-[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+:gb:[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+:tr:[AZ-104](https://learn.microsoft.com/tr-tr/credentials/certifications/exams/az-104/)
+:tr:[AZ-900](https://learn.microsoft.com/tr-tr/credentials/certifications/exams/az-900/)
 
 ###
  ✉️ You can contact me at [iletisim@emircaneren.net](mailto:iletisim@emircaneren.net)
